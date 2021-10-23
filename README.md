@@ -4,8 +4,8 @@
 
 🌙 some stuff i made:
 
-* **game:** [BLOODZONE](https://www.roblox.com/games/7602220537/BLOODZONE)
-* **web:** [a user-friendly markdown guide](https://uravgcatboy.github.io/formatting/markdown/)
+* **a game:** [BLOODZONE](https://www.roblox.com/games/7602220537/BLOODZONE)
+* **on the web:** [a user-friendly markdown guide](https://uravgcatboy.github.io/formatting/markdown/)
 
 👑 skills:
 
