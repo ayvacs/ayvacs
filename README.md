@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/uravgcatboy/uravgcatboy/main/repo-card.png)
+
 👋 hi, i'm **ur average catboy**
 
 🌙 some stuff i made:
