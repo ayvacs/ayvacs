@@ -1,5 +1,5 @@
 <a href="https://uravgcatboy.github.io/">
-  ![](https://raw.githubusercontent.com/uravgcatboy/uravgcatboy/main/repo-card.png)
+  <img src="https://raw.githubusercontent.com/uravgcatboy/uravgcatboy/main/repo-card.png">
 </a>
 
 👋 hi, i'm **ur average catboy**
