@@ -1,5 +1,3 @@
-<!--
-
 ![](https://raw.githubusercontent.com/uravgcatboy/uravgcatboy/main/repo-card.png)
 
 👋 hi, i'm **ur average catboy**
@@ -19,7 +17,3 @@ sleepiie@VM:~$ languages
 sleepiie@VM:~$ other-skills
 * Web design (sorta)
 ```
-
--->
-
-<iframe src="https://uravgcatboy.github.io/" title="Website IFrame">
