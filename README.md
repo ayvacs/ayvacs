@@ -2,6 +2,8 @@
   <img src="https://raw.githubusercontent.com/uravgcatboy/uravgcatboy/main/repo-card.png">
 </a>
 
+<br>
+
 👋 hi, i'm **ur average catboy**
 
 🌙 some stuff i made:
@@ -12,10 +14,10 @@
 👑 skills:
 
 ```console
-sleepiie@VM:~$ languages
+average@VM:~$ languages
 * HTML and CSS
 * Lua
 
-sleepiie@VM:~$ other-skills
+average@VM:~$ other-skills
 * Web design (sorta)
 ```
