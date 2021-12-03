@@ -1,5 +1,5 @@
 <a href="https://frogweezer.github.io/">
-  <img src="https://raw.githubusercontent.com/frogweezer/frogweezer/main/repo-card.png">
+  <img src="https://raw.githubusercontent.com/frogweezer/frogweezer/main/banner.png">
 </a>
 
 ----
