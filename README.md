@@ -6,21 +6,31 @@
 
 ----
 
+hey, my name is dom.
+
+<br>
+
 **highlights**
 
 * open-source programmer and well developer of four years
 * graphic designer of three years
 * fluent in lua, great at html, css, javascript
 
+<br>
+
 **projects**
 
-* gameboy advance emulator for the web: [gba.js.org](https://gba.js.org) || [source code](https://github.com/frogweezer/gba)
+* [gba.js.org](https://gba.js.org); a gameboy advance emulator for the web || [source code](https://github.com/frogweezer/gba)
+
+<br>
 
 **languages**
 
 * html and css: *since 2017*
 * lua: *since 2018*
 * javascript: *since 2021*
+
+<br>
 
 **contact**
 
