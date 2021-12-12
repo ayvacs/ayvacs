@@ -12,7 +12,7 @@ hey, my name is dom.
 
 **highlights**
 
-* open-source programmer and well developer of four years
+* open-source programmer and developer of four years
 * graphic designer of three years
 * fluent in lua, great at html, css, javascript
 
