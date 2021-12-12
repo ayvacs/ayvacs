@@ -8,13 +8,20 @@
 
 **highlights**
 
-* gameboy advance emulator for the web: [gba.js.org](https://gba.js.org)
+* open-source programmer and well developer of four years
+* graphic designer of three years
+* fluent in lua, great at html, css, javascript
 
-&nbsp;&nbsp;&nbsp;
-source code: [on github](https://github.com/frogweezer/gba)
+**projects**
+
+* gameboy advance emulator for the web: [gba.js.org](https://gba.js.org) || [source code](https://github.com/frogweezer/gba)
 
 **languages**
 
 * html and css: *since 2017*
 * lua: *since 2018*
 * javascript: *since 2021*
+
+**contact**
+
+* discord: [**frogweezer#1073**](https://discord.com/users/682214024586592307)
