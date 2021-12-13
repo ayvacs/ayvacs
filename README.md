@@ -21,7 +21,7 @@ hey, my name is dom.
 **projects**
 
 * [gba.js.org](https://gba.js.org); a gameboy advance emulator for the web || [source code](https://github.com/frogweezer/gba)
-* [the archives](https://github.com/frogweezer); a large database of a large variety of content, intended to preserve this content for future generations. featuring classic materials such as "Jingle Bells - Jingle Bells Edition" by Carson King
+* [the archives](https://github.com/frogweezer); an extensive database of a large variety of content, intended to preserve this content for future generations. featuring classic materials such as "Jingle Bells - Jingle Bells Edition" by Carson King
 * plus thousands more private projects
 
 <br>
@@ -37,5 +37,3 @@ hey, my name is dom.
 **contact**
 
 * discord: [**frogweezer#1073**](https://discord.com/users/682214024586592307)
-
-<img src="https://i.imgur.com/hOhxEtg.jpg">
