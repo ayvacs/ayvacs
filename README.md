@@ -36,3 +36,7 @@ hey, my name is dom.
 **contact**
 
 * discord: [**frogweezer#1073**](https://discord.com/users/682214024586592307)
+
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=d)](https://github.com/ryo-ma/github-profile-trophy)
