@@ -39,4 +39,6 @@ hey, my name is dom.
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=d)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=frogweezer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=frogweezer&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
