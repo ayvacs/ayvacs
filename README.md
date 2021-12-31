@@ -18,10 +18,11 @@ hey, my name is dom.
 
 <br>
 
-**projects**
+**links**
 
-* [gba.js.org](https://gba.js.org); a gameboy advance emulator for the web || [source code](https://github.com/frogweezer/gba)
-* plus hundreds more private projects
+* [keybase](https://keybase.io/nwts)
+* [pgp keys](https://raw.githubusercontent.com/frogweezer/frogweezer/main/.keybase/pgp.txt)
+* [projects page](https://frogweezer.github.io/projects)
 
 <br>
 
