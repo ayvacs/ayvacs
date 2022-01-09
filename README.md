@@ -18,11 +18,17 @@ hey, my name is dom.
 
 <br>
 
-**links**
+**projects**
 
-* [keybase](https://keybase.io/nwts)
-* [pgp keys](https://raw.githubusercontent.com/frogweezer/frogweezer/main/.keybase/pgp.txt)
-* [projects page](https://frogweezer.github.io/projects)
+*   <details>
+    <summary>Brigadier (lua)</summary>
+    Brigadier is an extension which securely encrypts and decrypts messages on the website to bypass the filter. You can send blocked words, clickable links, and even images using the extension, and anyone else using the extension will be able to read your message while others will see a random list of letters and numbers. <br>Brigadier is available in two forms: as an extension and as a Lua script. The extension will encrypt and decrypt messages on the Roblox website, while the script handles in-game messages. The script requires a script executor.
+    </details>
+*   <details>
+    <summary>gba.js.org (js)</summary>
+    GBA Online is a light-weight online emulator for the GameBoy Advance based on Iodine. It's hosted online at <a href="https://gba.js.org/">gba.js.org</a>.
+    </details>
+* [click for more](https://frogweezer.github.io)
 
 <br>
 
