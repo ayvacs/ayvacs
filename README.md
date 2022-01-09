@@ -12,13 +12,13 @@ hey, my name is dom.
 
 **projects**
 
-*   <details>
+*   <details open>
     <summary>Brigadier (lua)</summary>
-    Brigadier is an extension and in-game script for Roblox which securely encrypts and decrypts messages on the website and in-game, allowing you to bypass the filter. You can send blocked words, clickable links, and even images using the extension, and anyone else using the extension will be able to read your message while others will see a random list of letters and numbers.<br><br>Brigadier is available in two forms: as an extension and as a Lua script. The extension will encrypt and decrypt messages on the Roblox website, while the script handles in-game messages. The script requires a script executor.
+    <br>Brigadier is an extension and in-game script for Roblox which securely encrypts and decrypts messages on the website and in-game, allowing you to bypass the filter. You can send blocked words, clickable links, and even images using the extension, and anyone else using the extension will be able to read your message while others will see a random list of letters and numbers.<br><br>Brigadier is available in two forms: as an extension and as a Lua script. The extension will encrypt and decrypt messages on the Roblox website, while the script handles in-game messages. The script requires a script executor.
     </details>
 *   <details>
     <summary>gba.js.org (js)</summary>
-    GBA Online is a light-weight online emulator for the GameBoy Advance based on Iodine. It's hosted online at <a href="https://gba.js.org/">gba.js.org</a>.
+    <br>GBA Online is a light-weight online emulator for the GameBoy Advance based on Iodine. It's hosted online at <a href="https://gba.js.org/">gba.js.org</a>.
     </details>
 * [click for more](https://frogweezer.github.io)
 
