@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://discord.com/users/682214024586592307">
+    <a target="_blank" href="https://discord.com/users/682214024586592307">
         <img src="https://lanyard.cnrad.dev/api/682214024586592307?borderRadius=5px&idleMessage=not%20doing%20anything&bg=a"><br>
         <a href="https://frogweezer.github.io">my projects</a>
     </a>
