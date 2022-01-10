@@ -1,4 +1,17 @@
 <div align="center">
+    <a href="https://discord.com/users/682214024586592307">
+        <img src="https://raw.githubusercontent.com/frogweezer/frogweezer/main/github-banners/1/main.gif">
+    </a>
+    <h1>balls</h1>
+    <a href="https://discord.com/users/682214024586592307">
+        <img src="https://lanyard.cnrad.dev/api/682214024586592307?borderRadius=5px&idleMessage=not%20doing%20anything&bg=a"><br>
+        <a href="https://frogweezer.github.io">my projects</a>
+    </a>
+</div>
+
+<!--
+
+<div align="center">
   <a href="https://discord.com/users/682214024586592307">
     <img src="https://raw.githubusercontent.com/frogweezer/frogweezer/main/github-banners/1/main.gif">
   </a>
@@ -35,3 +48,5 @@ hey, my name is dom.
 **contact**
 
 * discord: <a href="https://discord.com/users/682214024586592307" target="_blank">dom#1073</a>
+
+-->
