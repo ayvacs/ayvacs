@@ -2,10 +2,15 @@
     <a target="_blank" href="https://discord.com/users/682214024586592307">
         <img src="https://lanyard.cnrad.dev/api/682214024586592307?borderRadius=5px&idleMessage=not%20doing%20anything&bg=a"><br>
     </a>
-    <i>click to add my discord</i><br>
+    <i>click to add my discord</i>
+    <br>
     <a target="_blank" href="https://discord.com/users/682214024586592307">
         <a href="https://frogweezer.github.io">my projects</a> - <a href="https://keybase.io/nwts">keybase</a>
     </a>
+    <br><br>
+    <b>$ btc:</b> <code>1GTPWTkYon94z4mPnTecD5ep4fvLpfmEV3</code>
+    <br>
+    <b>$ eth:</b> <code>0xF6Ebc26da91e099e23CBFFF424160fe4b508E5e0</code>
 </div>
 
 <!--
