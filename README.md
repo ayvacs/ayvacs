@@ -5,7 +5,7 @@
     <i>click to add my discord</i>
     <br>
     <a target="_blank" href="https://discord.com/users/682214024586592307">
-        <a href="https://frogweezer.github.io">my projects</a> - <a href="https://keybase.io/nwts">keybase</a>
+        <a href="https://ayvacs.github.io">my projects</a> - <a href="https://keybase.io/nwts">keybase</a>
     </a>
     <br><br>
     <b>$ btc:</b> <code>1GTPWTkYon94z4mPnTecD5ep4fvLpfmEV3</code>
@@ -17,7 +17,7 @@
 
 <div align="center">
   <a href="https://discord.com/users/682214024586592307">
-    <img src="https://raw.githubusercontent.com/frogweezer/frogweezer/main/github-banners/1/main.gif">
+    <img src="https://raw.githubusercontent.com/ayvacs/ayvacs/main/github-banners/1/main.gif">
   </a>
 </div>
 
@@ -37,7 +37,7 @@ hey, my name is dom.
     <summary>gba.js.org (js)</summary>
     <br>GBA Online is a light-weight online emulator for the GameBoy Advance based on Iodine. It's hosted online at <a href="https://gba.js.org/">gba.js.org</a>.
     </details>
-* [click for more](https://frogweezer.github.io)
+* [click for more](https://ayvacs.github.io)
 
 <br>
 
