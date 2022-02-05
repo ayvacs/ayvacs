@@ -1,4 +1,6 @@
-<img align="center" src="https://raw.githubusercontent.com/ayvacs/ayvacs.github.io/main/assets/Brigadier.png"> 
+<a href="https://ayvacs.github.io">
+    <img align="center" src="https://raw.githubusercontent.com/ayvacs/ayvacs.github.io/main/assets/Brigadier.png"> 
+</a>
 
 <div style="background-color: rgb(17, 17, 22);" align="center">
     <a target="_blank" href="https://discord.com/users/682214024586592307">
