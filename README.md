@@ -2,6 +2,12 @@
     <img align="center" src="https://raw.githubusercontent.com/ayvacs/ayvacs.github.io/main/assets/Brigadier.png"> 
 </a>
 
+<div align="center">
+    <p>hey im dom and im building a SEXY app called brigadier : )</p>
+    <h3>about me:</h3>
+    - balls
+</div>
+
 <div style="background-color: rgb(17, 17, 22);" align="center">
     <a target="_blank" href="https://discord.com/users/682214024586592307">
         <img src="https://lanyard.cnrad.dev/api/682214024586592307?borderRadius=5px&idleMessage=not%20doing%20anything&bg=a"><br>
