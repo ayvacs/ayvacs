@@ -10,4 +10,10 @@
     <i>click above to add my discord</i>
     <br>
     <a href="https://ave.is-a.dev">my projects</a> - <a href="https://keybase.io/nwts">keybase</a>
+    <br>
+    <p>here's some cool things i've done</p>
 </div>
+
+<p align="center">
+    <img src="https://profile-counter.glitch.me/ayvacs/count.svg"/>
+</p>
