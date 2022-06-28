@@ -73,3 +73,5 @@ Ensure you are still focused on the index.html file. Wait for a "Go Live" button
 ![go live button](Screenshot_9.png)
 
 Wait a bit for the server to start, and before long you should be greeted with gba.js.org's main page. Great job, you've done it! You can now use the emulator without fear of it being taken down. Enjoy your freedom.
+
+For troubleshooting, please contact me via Discord or Telegram; both are available [on my website](https://ave.is-a.dev/). I have three Discord accounts listed; please contact me via the first one.
