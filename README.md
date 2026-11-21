@@ -1,3 +1,6 @@
 ![A banner image showing the April 8, 2024 total solar eclipse.](banner-min.png)
 
-<p align="center">music, photography, and sometimes coding</p>
+<p align="center">I've been coding for over 10 years now. I started with Scratch; spent a lot of time making games and modules on the video game platform Roblox; and now I mainly work with web technologies.</p>
+<p align="center">I'm proudly a student at the <a href="https://www.uoguelph.ca/about">University of Guelph</a>, hoping to build my software development career with a focus on building accessible, inclusive User Experience.</p>
+<p align="center">As a recipient of the <a href="https://www.sjkschool.org/academics/diploma-programme-and-pathways-grades-1112/the-international-baccalaureate-dp">International Baccalaureate Diploma</a>, some of my highlighted background work includes web development for small local businesses; translation and transcription volunteering for the <a href="https://www.loc.gov/">U.S. Library of Congress</a>, and tons of experimentation with a variety of technologies like Node, GitHub Pages and Actions, 11ty, and Gradle, just to name a few!</p>
+<p align="center">My work is human-first and accessible, always. Outside of my work, I'm an avid photographer, writer, painter, and fan of classic mythology.</p>
