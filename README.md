@@ -14,8 +14,8 @@ check out my blog and published work at <a href="https://ave.is-a.dev/blog">ave.
     <tr>
         <td>backend</td>
         <td><img
-            alt="the logos of: gradle, java, c, nodejs, discordjs, robloxstudio, lua"
-            src="https://skillicons.dev/icons?i=gradle,java,c,nodejs,discordjs,robloxstudio,lua)"></td>
+            alt="the logos of: gradle, java, c, nodejs, discordjs"
+            src="https://skillicons.dev/icons?i=gradle,java,c,nodejs,discordjs"></td>
     </tr>
     <tr>
         <td>frontend</td>
@@ -26,8 +26,8 @@ check out my blog and published work at <a href="https://ave.is-a.dev/blog">ave.
     <tr>
         <td>tools</td>
         <td><img
-            alt="the logos of: git, github, github actions"
-            src="https://skillicons.dev/icons?i=git,github,githubactions"></td>
+            alt="the logos of: git, github, github actions, roblox studio"
+            src="https://skillicons.dev/icons?i=git,github,githubactions,robloxstudio"></td>
     </tr>
     <tr>
         <td>operating systems</td>
@@ -36,10 +36,10 @@ check out my blog and published work at <a href="https://ave.is-a.dev/blog">ave.
             src="https://skillicons.dev/icons?i=apple,linux,windows"></td>
     </tr>
     <tr>
-        <td>miscellaneous</td>
+        <td>scripting</td>
         <td><img
-            alt="the logos of: python, godot"
-            src="https://skillicons.dev/icons?i=python,godot"></td>
+            alt="the logos of: lua, python, godot"
+            src="https://skillicons.dev/icons?i=lua,python,godot"></td>
     </tr>
 </table>
 
